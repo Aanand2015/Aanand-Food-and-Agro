@@ -199,6 +199,9 @@
     color: var(--light);
 }
 
+.logo{
+    width: 55px;
+}
 
 /*** Section Title ***/
 .section-title {
